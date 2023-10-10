@@ -155,10 +155,23 @@ The system comprises a frontend developed using Angular, a backend developed usi
 ### 4.1 Frontend (Angular)
 - Angular will be used for the frontend.
 - The user interface will be responsive and accessible.
+- @angular-devkit/architect       0.1602.2
+- @angular-devkit/build-angular   16.2.2
+- @angular-devkit/core            16.2.2
+- @angular-devkit/schematics      16.2.2
+- @angular/cli                    16.2.2
+- @schematics/angular             16.2.2
+- rxjs                            7.8.1
+- typescript                      5.1.6
+- zone.js                         0.13.3
 
 ### 4.2 Backend (Spring Boot)
 - Spring Boot will serve as the backend.
 - It will handle user requests, plan activation, and payment processing.
+- Project- Maven
+- Language- Java
+- Spring Boot- 3.1.4
+- Java- 17
 
 ### 4.3 Database (MySQL)
 - MySQL will be used to store customer data, plan information, and payment records.
@@ -179,7 +192,8 @@ The system comprises a frontend developed using Angular, a backend developed usi
 ## 6. User Interface Design
 
 ### 6.1 Login/Registration Page
-![Login/Registration Page]
+![Login/Registration Page]<br>
+![Auth 2.0 Login Option]
 
 ### 6.2 Plan Selection Page
 ![Plan Selection Page]
