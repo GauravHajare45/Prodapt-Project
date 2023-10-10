@@ -177,30 +177,27 @@ The system comprises a frontend developed using Angular, a backend developed usi
 
 ---
 
-## 5. Data Flow Diagram
+## 5. Data Flow
 
-### 5.1 User Registration and Activation Flow
-![User Registration and Activation Flow]
-
-### 5.2 Payment Processing Flow
-![Payment Processing Flow]
+- 5.1 User Registration and Activation
+- 5.2 Payment Processing 
 
 ---
 
 ## 6. User Interface Design
 
 ### 6.1 Login/Registration Page
-![Login/Registration Page]<br>
-![Auth 2.0 Login Option]
+- Login/Registration Page option<br>
+- Auth 2.0 Login Option
 
 ### 6.2 Plan Selection Page
-![Plan Selection Page]
+- Plan Selection Page
 
 ### 6.3 Billing Information Page
-![Billing Information Page]
+- Billing Information Page
 
 ### 6.4 Confirmation Page
-![Confirmation Page]
+- Confirmation Page
 
 ---
 
