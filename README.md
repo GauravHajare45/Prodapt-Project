@@ -8,57 +8,57 @@ Author- Gaurav Hajare<br>
 ## Pseudo Fulfillment System
 
 ### Table of Contents
-1. Introduction
-   1.1 Purpose
-   1.2 Scope
-   1.3 Document Conventions
-   1.4 Intended Audience
-   1.5 System Overview
+1. Introduction<br>
+   1.1 Purpose<br>
+   1.2 Scope<br>
+   1.3 Document Conventions<br>
+   1.4 Intended Audience<br>
+   1.5 System Overview<br>
 
-2. Functional Requirements
-   2.1 User Interface
-   2.2 Plan Selection
-   2.3 Phone Number Validation
-   2.4 SIM Card Handling
-   2.5 Billing Information
-   2.6 Payment Processing
-   2.7 Confirmation
-   2.8 Plan Activation
-   2.9 Error Handling
-   2.10 Testing
+2. Functional Requirements<br>
+   2.1 User Interface<br>
+   2.2 Plan Selection<br>
+   2.3 Phone Number Validation<br>
+   2.4 SIM Card Handling<br>
+   2.5 Billing Information<br>
+   2.6 Payment Processing<br>
+   2.7 Confirmation<br>
+   2.8 Plan Activation<br>
+   2.9 Error Handling<br>
+   2.10 Testing<br>
 
-3. Non-Functional Requirements
-   3.1 Usability
-   3.2 Performance
-   3.3 Security
-   3.4 Reliability
+3. Non-Functional Requirements<br>
+   3.1 Usability<br>
+   3.2 Performance<br>
+   3.3 Security<br>
+   3.4 Reliability<br>
 
-4. System Architecture
-   4.1 Frontend (Angular)
-   4.2 Backend (Spring Boot)
-   4.3 Database (MySQL)
+4. System Architecture<br>
+   4.1 Frontend (Angular)<br>
+   4.2 Backend (Spring Boot)<br>
+   4.3 Database (MySQL)<br>
 
-5. Data Flow Diagram
-   5.1 User Registration and Activation Flow
-   5.2 Payment Processing Flow
+5. Data Flow Diagram<br>
+   5.1 User Registration and Activation Flow<br>
+   5.2 Payment Processing Flow<br>
 
-6. User Interface Design
-   6.1 Login/Registration Page
-   6.2 Plan Selection Page
-   6.3 Billing Information Page
-   6.4 Confirmation Page
+6. User Interface Design<br>
+   6.1 Login/Registration Page<br>
+   6.2 Plan Selection Page<br>
+   6.3 Billing Information Page<br>
+   6.4 Confirmation Page<br>
 
-7. Deployment
-   7.1 Deployment Environment
-   7.2 Installation and Configuration
-   7.3 Backup and Recovery
+7. Deployment<br>
+   7.1 Deployment Environment<br>
+   7.2 Installation and Configuration<br>
+   7.3 Backup and Recovery<br>
 
-8. Maintenance and Support
-   8.1 Bug Tracking and Resolution
-   8.2 Feature Updates
-   8.3 User Support
+8. Maintenance and Support<br>
+   8.1 Bug Tracking and Resolution<br>
+   8.2 Feature Updates<br>
+   8.3 User Support<br>
 
-9. Glossary
+9. Glossary<br>
 
 ---
 
