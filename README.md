@@ -1,9 +1,5 @@
-# Prodapt-Project
-Final project-prodapt.
-<br>
-Author- Gaurav Hajare<br>
-
-## Pseudo Fulfillment System
+## Pseudo Fulfillment System <br>
+- Author- Gaurav Hajare<br>
 
 ### Table of Contents
 1. Introduction<br>
